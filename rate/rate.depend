@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1363330363 source:g:\programme\shujujiegou\rate\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

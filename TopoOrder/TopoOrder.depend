@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1366353551 source:g:\programme\data structure\topoorder\main.cpp
+	<iostream>
+	<queue>
+

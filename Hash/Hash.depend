@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1368772139 source:g:\programme\data structure\hash\main.cpp
+	<iostream>
+	<windows.h>
+	<WinBase.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<fstream>
+

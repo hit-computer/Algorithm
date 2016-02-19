@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1355299372 source:g:\programme\code blocks\dmy\graph\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+
+1355725401 source:g:\programme\code blocks\graph\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+

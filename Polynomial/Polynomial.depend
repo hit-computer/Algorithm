@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1363306952 source:g:\programme\shujujiegou\polynomial\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

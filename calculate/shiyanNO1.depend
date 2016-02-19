@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1353458831 source:g:\programme\code blocks\shiyanno1\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<stdlib.h>
+
+1353458831 source:g:\programme\shujujiegou\calculate\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<stdlib.h>
+

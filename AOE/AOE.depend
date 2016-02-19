@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1366811008 source:g:\programme\data structure\aoe\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+

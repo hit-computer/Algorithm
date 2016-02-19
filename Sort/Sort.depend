@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1368768614 source:g:\programme\data structure\sort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<Queue>
+	<windows.h>
+	<WinBase.h>
+	<fstream>
+

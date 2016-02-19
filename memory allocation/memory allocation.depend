@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1363334861 source:g:\programme\shujujiegou\memory allocation\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1356015413 source:g:\programme\code blocks\huffman\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<bitset>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+
